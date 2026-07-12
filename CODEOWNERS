@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @emmatonetti
+/src/backend/database.py      @emmatonetti
+/src/backend/routers/auth.py  @emmatonetti
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @emmatonetti
